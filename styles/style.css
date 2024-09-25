@@ -26,6 +26,7 @@ body{
     font-size: 24px;
     font-weight: 600;
     color:#22D4FD;
+    text-decoration: none;
 }
 
 .apresentacao{
@@ -124,4 +125,10 @@ body{
     font-size: 24px;
     font-weight: 400;
     
+}
+
+
+.apresentacao__conteudo__texto a{
+    text-decoration: none;
+    color: #22D4FD;
 }
